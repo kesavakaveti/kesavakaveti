@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kesavakaveti
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...Full stack web development and Python
+- 🌱 I’m currently learning ...Full stack Java developer 
 - 💞️ I’m looking to collaborate on ...coding skills
 - 📫 How to reach me ...kesavakaveti424@gmail.com -8897711607
 
